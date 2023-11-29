@@ -21,3 +21,4 @@ public class Ex3 {
         System.out.println(phi);
     }
 }
+
